@@ -8,7 +8,7 @@ This application helps inform travellers about the culture, scams, slang, and nu
 ## Deployed Application Link
 This application is deployed on Heroku.
 
-[Know before you go by visiting here...](https://cultourist.herokuapp.com/)
+[Know before you go by visiting here...](https://cultouristapp.herokuapp.com/)
 
 ## Contents
 
